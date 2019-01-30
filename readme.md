@@ -1,6 +1,6 @@
 [Project Homepage](https://landonma.github.io/Data-Management-Templates-Project/) - [Main Repository](https://github.com/landonma/Data-Management-Templates-Project) - [Internal Sharing Template](https://github.com/landonma/Data-Management-Internal-Sharing-Template)
 
-# Documentation File Template README
+# Internal Data Sharing Template README
 -------------------
 This repository contains a template for to help you create an Internal Data Sharing Plan. An Internal Data Sharing Plan is designed so that researchers will make decisions about data sharing and data attribution before problems arise. This document makes sure everyone has the information they need to decide when and how to share data internally.   
 
@@ -16,8 +16,8 @@ Created by Clara Liebot Lorente and Mark Landon for the [Oregon State Research D
 This work is licensed under a [Creative Commons No Rights Reserved (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## FAQ
-### Why do I need a Documentation Files?
-
+### Why do I need an Internal Data Sharing Plan?
+Disagreements between the members of a team regarding the sharing of research data during the project is a common occurrence. This Internal Data Sharing Plan is designed so that researchers will make decisions about data sharing and data attribution at the beginning of the project, to minimize disagreements down the road. This document makes sure everyone has the information they need to decide when and how to share data internally.
 
 ### Who is this project for?
 
